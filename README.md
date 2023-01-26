@@ -1,0 +1,2 @@
+# React-Children-Props---Setting-CSS-Classes-Dynamically-Adding-Dynamic-Styles-Using-Stateful-Lists-
+You have to complete App.js and ChildComponent.js .You need to make sure of the following things.  Make sure that input tag with id #input renders inside the &lt;ChildComponent> while being written in App.js file only  When any number is entered in the input with id #input then the square of that number should come in &lt;p> tag with id #output
